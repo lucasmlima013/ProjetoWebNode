@@ -5,3 +5,5 @@ http.createServer(function(requisicao,resposta){
 }).listen(8080);
 
 console.log("Servidor OK")
+
+/* Teste */
